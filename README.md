@@ -20,7 +20,7 @@
 - 📝 [Resume](https://drive.google.com/file/d/1BKuFNpRTT2gXa-jG_LQSbHLA-DOdHmpw/view?usp=sharing)
 - 😄 Pronouns: He/His
 
-- 📫 How to reach me **er.swaraj@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
