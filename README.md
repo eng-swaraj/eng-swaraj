@@ -10,7 +10,7 @@
 
 <br />
  
-<img align="right" alt="GIF" src="https://github.com/Suman-programmer/Suman-programmer/blob/main/code.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/swaraj-kumar/swaraj-kumar/blob/main/giphy.webp" width="400" height="320" />
 
 **Few things about me:** 
 - 💬 Ask me about Python, IoT , Machine Learning , Arduino , Raspberrypi
