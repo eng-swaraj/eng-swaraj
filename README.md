@@ -16,7 +16,7 @@
 - 💬 Ask me about Python, IoT , Machine Learning , Arduino , Raspberrypi
 - 🌱 Schooling: [Keshav Saraswati Vidya Mandir, BIhar](http://ksvmpatna.com//) 
 - 🏢 College: [Don Bosco Institute of Technology](https://donboscobangalore.education/) 
-- 📫 How to reach me: er.swaraj@outtlook.com 
+- 📫 How to reach me : er.swaraj@outtlook.com 
 - 📝 [Resume](https://drive.google.com/file/d/1BKuFNpRTT2gXa-jG_LQSbHLA-DOdHmpw/view?usp=sharing)
 - 😄 Pronouns: He/His
 
