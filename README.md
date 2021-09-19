@@ -18,7 +18,7 @@
 - 🏢 College: [Don Bosco Institute of Technology ,Bengaluru ,Karnataka. ](https://donboscobangalore.education/) 
 - 🏢 PUC : [St. Xaviers High School , patna , Bihar. ](https://www.stxavierspatna.in/#1) 
 - 📫 How to reach me : er.swaraj@outtlook.com 
-- 📝 [Resume](https://drive.google.com/file/d/19SpDh8AqBbdNVu9RzbX2rHZdPdmPzQ1h/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1zul7rCsfNy8ZCbtAzpwmeOOy2qZhs9FP/view?usp=sharing)
 - 😄 Pronouns: He/His
 
 
