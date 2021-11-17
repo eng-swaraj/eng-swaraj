@@ -20,6 +20,9 @@
 - 📫 How to reach me : er.swaraj@outtlook.com 
 - 📝 [Resume](https://drive.google.com/file/d/1zul7rCsfNy8ZCbtAzpwmeOOy2qZhs9FP/view?usp=sharing)
 - 😄 Pronouns: He/His
+- 📰 college newsletter :📺 https://www.instagram.com/p/CVrgeKhP8Ut/
+- 📰 college newsletter :🖥 https://www.facebook.com/DonBoscoInstituteOfTechnologyBangalore/photos/pcb.3789338664502178/3789337637835614
+- 📰 college newsletter :💻 https://twitter.com/donboscoblr/status/1454482180206329857
 
 
 
