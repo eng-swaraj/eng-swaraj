@@ -31,9 +31,7 @@
 <a href="https://twitter.com/eng_swaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eng_swaraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swaraj-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaraj-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/eng_swaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eng_swaraj" height="30" width="40" /></a>
-  <a href="https://open.spotify.com/user/31tjvjrcmofflm7khssclphciio4">
-  <img align="left" alt="Suman's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+  
 <a href="https://www.facebook.com/swaraj.kumar.dave">
   <img align="left" alt="Swars's Facebook" width="30px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" />
 </a>
