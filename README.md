@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://github.com/swaraj-kumar/swaraj-kumar/blob/main/giphy.webp" width="400" height="320" />
 
 **Few things about me:** 
-- 💬 Ask me about Python, IoT , Machine Learning , Arduino , Raspberrypi
+- 💬 Ask me about Python, IoT , Machine Learning , Arduino , Raspberrypi, Web Scrapping 
 - 🌱 Schooling: [Keshav Saraswati Vidya Mandir, Patna , Bihar.](http://ksvmpatna.com//) 
 - 🏢 College: [Don Bosco Institute of Technology ,Bengaluru ,Karnataka. ](https://donboscobangalore.education/) 
 - 🏢 PUC : [St. Xaviers High School , patna , Bihar. ](https://www.stxavierspatna.in/#1) 
@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eng_swaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eng_swaraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swaraj-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaraj-kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eng-swaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaraj-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/eng_swaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eng_swaraj" height="30" width="40" /></a>
   
 
