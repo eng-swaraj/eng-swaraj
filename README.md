@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
-<h3 align="center">A IoT Enthusiast, who is keen to towards learning new things and exploring technology</h3>
+<h3 align="center">A Enthusiast Engineer , who is keen to towards learning new things and exploring technology</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj-kumar" /> </p>
